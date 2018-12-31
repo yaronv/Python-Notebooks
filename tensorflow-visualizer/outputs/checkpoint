@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/ds/notebooks/Github/Python-Notebooks/tensorflow-visualizer/outputs/w2x_metadata.ckpt"
+all_model_checkpoint_paths: "/home/ds/notebooks/Github/Python-Notebooks/tensorflow-visualizer/outputs/w2x_metadata.ckpt"

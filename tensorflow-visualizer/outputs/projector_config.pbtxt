@@ -1,0 +1,4 @@
+embeddings {
+  tensor_name: "metadata:0"
+  metadata_path: "/home/ds/notebooks/Github/Python-Notebooks/tensorflow-visualizer/sample-vecs/metadata.tsv"
+}

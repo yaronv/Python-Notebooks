@@ -1,0 +1,9 @@
+version: '2'
+services:
+  ds:
+    image: yaronv/ds
+    tty: true
+    ports:
+      - '8888:8888'
+    volumes:
+      - '~/python-envs/notebooks:/home/ds/notebooks/'
