@@ -1,6 +1,8 @@
 version: '2'
 services:
   ds:
+    working_dir: /home/ds/
+    container_name: ds_container
     image: yaronv/ds
     tty: true
     ports:
